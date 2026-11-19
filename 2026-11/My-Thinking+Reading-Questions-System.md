@@ -1,5 +1,3 @@
-# 2026-11-26
-
 # My Thinking & Reading Questions System  
 # 思维与阅读提问体系
 
